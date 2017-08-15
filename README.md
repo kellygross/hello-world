@@ -1,3 +1,3 @@
 # hello-world
-My first repository on Github
-Hello Gitbub. Bought time I put something on here, no?
+My first repository on Github.
+Hello Gitbub. 'Bout time I put something on here, no?
